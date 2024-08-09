@@ -1,0 +1,53 @@
+/* src/asset/css/index.css */
+
+.font {
+    font-family: "Pretendard-Regular";
+}
+
+.font-24 {
+    font-size: 24px;
+}
+
+.font-16 {
+    font-size: 16px;
+}
+
+.font-14 {
+    font-size: 14px;
+}
+
+.font-12 {
+    font-size: 12px;
+}
+
+.list-group {
+    height: 124px;
+    overflow-y: scroll;
+}
+
+.list-group-item {
+    height: 21px;
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+.p-absolute {
+    position: absolute;
+}
+
+.minWidth-42 {
+    min-width: 42px;
+}
+
+.left-4 {
+    left: 4em;
+}
+
+.left-7 {
+    left: 7.2em;
+}
+
+#openGithub {
+    cursor: pointer;
+    text-decoration-line: underline;
+}
